@@ -25,3 +25,6 @@ The complete documentation is available in tabavcmt-doc.pdf. It includes :
 
 # Feedback
 Suggestions, bug reports and feature requests are welcome through GitHub Issues.
+
+# License
+This package is distributed under the LaTeX Project Public License (LPPL) version 1.3c or later.
