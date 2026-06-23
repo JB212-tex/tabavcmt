@@ -1,6 +1,9 @@
 # tabavcmt
 A LaTeX package for generating chemistry reaction progress tables (french "tableaux d'avancement", similar to ICE tables)
 
+# Example output
+![Example](images/example.png)
+
 # Local Installation
 Copy tabavcmt.sty to your local TeX tree, for example :
 ## MacOS & Linux
